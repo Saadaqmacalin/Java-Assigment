@@ -1,6 +1,6 @@
 # staff-management-system
 
 
-Name : Mohamed Ali Omar
-StudentID : C1220014
+Name : Sadak Mohamed Ali
+StudentID : C1220072
 Class : CA221
